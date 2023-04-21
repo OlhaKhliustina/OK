@@ -5,7 +5,6 @@ import collages
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Створюємо бота
-
 bot = telebot.TeleBot(important_materials.TOKEN)
 
 
